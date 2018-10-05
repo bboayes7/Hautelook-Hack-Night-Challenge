@@ -1,0 +1,15 @@
+{
+  "name": "hautecode-challenge",
+  "version": "1.0.0",
+  "description": "use the twilio api to send a text to your phone that your package has been delivered",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Barry Boayes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
